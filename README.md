@@ -2,13 +2,13 @@
 
 I'm Prado 
 
-##Languages
+## Languages
 CSS, HTML, Sass, React
 
-##Tools
+## Tools
 Git, Slack
 
-##Softskills
+## Softskills
 Agile, Scrum
 
 

@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Prado 
+### ¡Hola! I'm Prado 👋
 
 ## Languages
 CSS, HTML, Sass, React

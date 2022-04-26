@@ -1,10 +1,7 @@
-### ¡Hola! I'm Prado 👋
+# ¡Hola! I'm Prado 👋
 
-## Languages
-CSS, HTML, Sass, React
-
-## Tools
-Git, Slack
+## Languages & Tools
+CSS, HTML, Sass, React, Git, Slack
 
 ## Softskills
 Agile, Scrum

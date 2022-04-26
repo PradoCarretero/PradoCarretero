@@ -1,4 +1,4 @@
-# ¡Hola! I'm Prado 👋
+# ¡Hola! I'm Prado 👋👩‍💻
 
 ## Languages & Tools
 CSS, HTML, Sass, React, Git, Slack

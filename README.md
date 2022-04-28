@@ -1,4 +1,4 @@
-![concretetexture](https://libg.s3.us-east-2.amazonaws.com/download/Modern-Exterior-Design.jpg)
+# ¡Hola! I'm Prado 👋
   
     
     
@@ -12,6 +12,6 @@ Una **profesional proactiva** con capacidad de **adaptación** y cualidades para
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ▎ HTML5 | CSS3 | JS | React | Node | Git ▎
 
 ## Softskills
-Agile, Scrum
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ▎ Agile | Scrum | Trabajo en equipo ▎
 
 

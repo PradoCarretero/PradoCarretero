@@ -14,4 +14,5 @@ Una **profesional proactiva** con capacidad de **adaptación** y cualidades para
 ## Softskills
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ▎ Agile | Scrum | Trabajo en equipo ▎
 
-
+## Portfolio
+[Mis proyectos](https://www.notion.so/Resumen-de-mis-proyectos-cda05414884042c7a44c8fd0c1de063f)

@@ -9,7 +9,7 @@ De naturaleza ⊹ **creativa** ⊹ y apasionada por los lenguajes visuales. Soy 
 Una **profesional proactiva** con capacidad de **adaptación** y cualidades para trabajar en **equipo** y de forma individual.
 
 ## Languages & Tools
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ▎ HTML5 | CSS3 | JS | React | Node | Git ▎
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ▎ HTML5 | CSS3 | Tailwind | JS | React | Vue |Node | C |Git ▎
 
 ## Softskills
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ▎ Agile | Scrum | Trabajo en equipo ▎
